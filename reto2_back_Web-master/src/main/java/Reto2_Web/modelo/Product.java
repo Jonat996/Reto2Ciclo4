@@ -25,8 +25,8 @@ public class Product {
     private String category;
     private String material;
     private String description;
-    private double price;
     private boolean availability = true;
+    private double price;
     private int quantity;
     private String photography;
 }
